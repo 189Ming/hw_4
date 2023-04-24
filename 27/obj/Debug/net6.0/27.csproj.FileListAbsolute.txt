@@ -1,0 +1,15 @@
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.csproj.AssemblyReference.cache
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.GeneratedMSBuildEditorConfig.editorconfig
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.AssemblyInfoInputs.cache
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.AssemblyInfo.cs
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.csproj.CoreCompileInputs.cache
+A:\учеба\программирование\hw_seminar_4\27\bin\Debug\net6.0\27.exe
+A:\учеба\программирование\hw_seminar_4\27\bin\Debug\net6.0\27.deps.json
+A:\учеба\программирование\hw_seminar_4\27\bin\Debug\net6.0\27.runtimeconfig.json
+A:\учеба\программирование\hw_seminar_4\27\bin\Debug\net6.0\27.dll
+A:\учеба\программирование\hw_seminar_4\27\bin\Debug\net6.0\27.pdb
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.dll
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\refint\27.dll
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.pdb
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\27.genruntimeconfig.cache
+A:\учеба\программирование\hw_seminar_4\27\obj\Debug\net6.0\ref\27.dll
